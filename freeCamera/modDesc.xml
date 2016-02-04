@@ -9,9 +9,14 @@
  	</description>
     <multiplayer supported="true"/>   
 	<version>0.1</version>
-	<l10n />	
+	<l10n>
+		<text name="cameraFrameOfReference"><en>Change Camera Frame</en></text>
+	</l10n>
 	<iconFilename>store.dds</iconFilename>		
 	<extraSourceFiles>
         <sourceFile filename="freeCamera.lua" />
     </extraSourceFiles>	
+	<inputBindings>
+        <input name="cameraFrameOfReference" key1="KEY_lctrl KEY_v" button="" />
+    </inputBindings>
 </modDesc>
