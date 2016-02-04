@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="21">
+   <author>HarvesteR</author>
+    <title>
+		<en>Free Camera</en>
+    </title>
+    <description>
+        <en><![CDATA[Makes the vehicle camera rotation independent from the vehicle rotation.]]></en>
+ 	</description>
+    <multiplayer supported="true"/>   
+	<version>0.1</version>
+	<l10n />	
+	<iconFilename>store.dds</iconFilename>		
+	<extraSourceFiles>
+        <sourceFile filename="freeCamera.lua" />
+    </extraSourceFiles>	
+</modDesc>
