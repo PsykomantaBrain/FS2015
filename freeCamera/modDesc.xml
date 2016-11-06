@@ -3,23 +3,28 @@
    <author>HarvesteR</author>
     <title>
 		<en>Free Camera</en>
+		<fr>Free Camera</fr>
+		<de>Free Camera</de>
     </title>
     <description>
         <en><![CDATA[FreeCamera is a simple mod that decouples the camera rotation from the vehicle. It allows the camera to keep its orientation while vehicles are turning.
 
 Freecamera mode toggles through a new entry-binding (default Ctrl + V). The mode is saved and switched separately for each vehicle, for the internal and external views. Modes will persist for each view in which it is set, and this setting will be remembered when you view them again.
 
-(Please note that the camera states are not saved to file and will not persist across game sessions)]]></en>
+(Please note that the camera states are not saved to file and will not persist across game sessions)]]>
+		</en>
+		<de><![CDATA[Freecamera ist eine einfache mod, die die Kameradrehung vom Fahrzeug entkoppelt. Es ermöglicht die Kamera ihre Orientierung zu halten, während Fahrzeuge drehen.
+
+Freecamera Modus wird mit eine neue Eingabe-Bindung (standardmäßig Strg + V) umgeschaltet. Der Modus wird gespeichert und separat für jedes Fahrzeug, für die interne und externe Ansichten umgeschaltet. Modi wird für jede Ansicht beharren, in dem er festgelegt ist, und diese Einstellung in Erinnerung bleiben wird, wenn Sie diese Ansicht wieder.
+
+(Beachten Sie, dass die Kamera-Staaten sind nicht in Datei gespeichert und werden nicht über den Spielsitzungen bestehen)]]>
+		</de>
 		<fr><![CDATA[FreeCamera est un mod simple qui découple la rotation de la caméra du véhicule. Il permet à la caméra de garder son orientation alors que les véhicules tournent.
 
 Mode Freecamera défilent à une nouvelle entrée de liaison (par défaut Ctrl + V). Le mode est enregistré et activé séparément pour chaque véhicule, pour les vues internes et externes. Modes persisteront pour chaque vue dans lequel il est défini, et ce paramètre seront prises en compte lorsque vous affichez à nouveau.
 
-(S'il vous plaît noter que les états de la caméra ne sont pas enregistrés dans un fichier et ne sera pas persister à travers des sessions de jeu)]]></fr>
-<de><!CDATA[[Freecamera ist eine einfache mod, die die Kameradrehung vom Fahrzeug entkoppelt. Es ermöglicht die Kamera ihre Orientierung zu halten, während Fahrzeuge drehen.
-
-Freecamera Modus wird mit eine neue Eingabe-Bindung (standardmäßig Strg + V) umgeschaltet. Der Modus wird gespeichert und separat für jedes Fahrzeug, für die interne und externe Ansichten umgeschaltet. Modi wird für jede Ansicht beharren, in dem er festgelegt ist, und diese Einstellung in Erinnerung bleiben wird, wenn Sie diese Ansicht wieder.
-
-(Beachten Sie, dass die Kamera-Staaten sind nicht in Datei gespeichert und werden nicht über den Spielsitzungen bestehen) ]]></de>
+(S'il vous plaît noter que les états de la caméra ne sont pas enregistrés dans un fichier et ne sera pas persister à travers des sessions de jeu)]]>
+		</fr>
  	</description>
     <multiplayer supported="true"/>   
 	<version>0.1</version>
